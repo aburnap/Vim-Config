@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/computer/.vim/bundle/syntastic/syntax_checkers/python'
 let g:netrw_dirhist_2='/home/computer/Local_Dev/test'
+let g:netrw_dirhist_3='/home/computer/.matplotlib'
+let g:netrw_dirhist_4='/home/computer/webdev/crowdapp/.git'
+let g:netrw_dirhist_5='/home/computer/webdev/CrowdDesign/DesignApp/templates'
+let g:netrw_dirhist_6='/home/computer/webdev/bootstrap/index.html'
+let g:netrw_dirhist_7='/home/computer/.vim'
+let g:netrw_dirhist_8='/home/computer/IDETC13/.git'
+let g:netrw_dirhist_9='/home/computer/.vim/.git'
